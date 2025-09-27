@@ -33,3 +33,4 @@ class FoodRatings {
         return foods[0];
     }
 }
+
